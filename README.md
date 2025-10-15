@@ -2,7 +2,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=nakanakamuramura&style=flat-square&color=0366d6" alt="profile views" />
 </div>
-
+<h2>確認用（Privateも含む）</h2>
 <!-- 🌌 GitHub Stats -->
 <div align="center">
   <a href="https://github.com/nakanakamuramura">
